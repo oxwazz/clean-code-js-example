@@ -13,7 +13,7 @@ function showDOB() {
   // ...
 }
 
-function RenderWSpace() {
+function renderWSpace() {
   // ...
 }
 
@@ -32,6 +32,6 @@ function RenderWSpace() {
 //   // ...
 // }
 
-// function RenderWithSpace() {
+// function renderWithSpace() {
 //   // ...
 // }
