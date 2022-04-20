@@ -8,10 +8,3 @@ function setDistance(pointA, pointB, isKilometer) {
 }
 
 // GOOD CODE
-function distanceInKilometers(pointA, pointB) {
-  // set distance in kilometers
-}
-
-function distanceInMiles(pointA, pointB) {
-  // set distance in miles
-}

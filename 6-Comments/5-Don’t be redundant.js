@@ -9,8 +9,3 @@ if (student.age >= 18) {
 }
 
 // GOOD CODE
-if (student.age >= 18) {
-  notificationService.sendMessageTo(student, meetingInvitation);
-} else {
-  notificationService.sendMessageTo(student.parent, meetingInvitation);
-}

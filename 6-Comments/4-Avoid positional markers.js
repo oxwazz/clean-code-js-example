@@ -15,11 +15,3 @@ const actions = function () {
 };
 
 // GOOD CODE
-// const model = {
-//   menu: "foo",
-//   nav: "bar",
-// };
-
-// const actions = function () {
-//   // ...
-// };

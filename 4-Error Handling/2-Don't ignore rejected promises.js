@@ -8,12 +8,3 @@ getdata()
   });
 
 // GOOD CODE
-// getdata()
-//   .then((data) => {
-//     functionThatMightThrow(data);
-//   })
-//   .catch((error) => {
-//     console.error(error);
-//     notifyUserOfError(error);
-//     reportErrorToService(error);
-//   });

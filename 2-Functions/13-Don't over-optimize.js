@@ -6,6 +6,3 @@ for (let i = 0, len = list.length; i < len; i++) {
 }
 
 // GOOD CODE
-for (let i = 0; i < list.length; i++) {
-  // ...
-}

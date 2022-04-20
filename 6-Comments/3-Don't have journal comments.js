@@ -10,6 +10,3 @@ function combine(a, b) {
 }
 
 // GOOD CODE
-// function combine(a, b) {
-//   return a + b;
-// }

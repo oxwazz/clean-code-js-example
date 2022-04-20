@@ -29,28 +29,3 @@ for (let i = 0; i < programmerOutput.length; i++) {
 }
 
 // GOOD CODE
-// const programmerOutput = [
-//   {
-//     name: "Uncle Bobby",
-//     linesOfCode: 500,
-//   },
-//   {
-//     name: "Suzie Q",
-//     linesOfCode: 1500,
-//   },
-//   {
-//     name: "Jimmy Gosling",
-//     linesOfCode: 150,
-//   },
-//   {
-//     name: "Gracie Hopper",
-//     linesOfCode: 1000,
-//   },
-// ];
-
-// const totalOutput = programmerOutput.reduce(
-//   (totalLines, output) => totalLines + output.linesOfCode,
-//   0
-// );
-
-// let listName = programmerOutput.map(({ name }) => name);

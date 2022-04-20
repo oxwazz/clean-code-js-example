@@ -22,19 +22,3 @@ console.log(
 );
 
 // GOOD CODE
-// const car = {
-//   brand: "Honda",
-//   model: "Accord",
-//   color: "Blue",
-// };
-
-// console.log(car.brand, car.model, car.color);
-
-// const product = {
-//   id: 1,
-//   name: "T-Shirt",
-//   price: 8.99,
-//   units: 12,
-// };
-
-// console.log(product.id, product.name, product.price, product.units);

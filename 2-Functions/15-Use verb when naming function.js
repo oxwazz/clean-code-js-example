@@ -8,10 +8,3 @@ function notification(text) {
 }
 
 // GOOD CODE
-// function createUser(username, password) {
-//   // ...
-// }
-
-// function sendNotification(text) {
-//   // ...
-// }

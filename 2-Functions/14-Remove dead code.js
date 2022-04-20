@@ -8,6 +8,3 @@ function newRequestModule(url) {
 }
 
 // GOOD CODE
-// function newRequestModule(url) {
-//   // ...
-// }

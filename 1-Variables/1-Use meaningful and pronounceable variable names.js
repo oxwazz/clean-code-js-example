@@ -9,11 +9,3 @@ const info = {
 };
 
 // GOOD CODE
-// const currentDate = moment().format("YYYY/MM/DD");
-// const listCountry = ["Indonesia", "Malaysia", "Pakistan"];
-// const userInfo = {
-//   firstName: "",
-//   lastName: "",
-//   address: "",
-//   phoneNumber: "",
-// };

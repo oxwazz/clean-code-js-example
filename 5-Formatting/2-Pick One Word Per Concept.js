@@ -8,8 +8,3 @@ eraseProduct();
 removeProduct();
 
 // GOOD CODE
-// fetchProduct();
-// fetchUser();
-
-// deleteProduct();
-// deleteUser();

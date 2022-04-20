@@ -4,6 +4,3 @@ const addItemToCart = (cart, item) => {
 };
 
 // GOOD CODE
-// const addItemToCart = (cart, item) => {
-//   return [...cart, { item, date: Date.now() }];
-// };

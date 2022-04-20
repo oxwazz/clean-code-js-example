@@ -8,10 +8,3 @@ if (isNotAdmin) {
 }
 
 // GOOD CODE
-// if (isTrue(true)) {
-//   // ...
-// }
-
-// if (isAdmin) {
-//   // ...
-// }

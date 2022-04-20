@@ -5,6 +5,3 @@ function createShape(type) {
 }
 
 // GOOD CODE
-function createShape(type = "circle") {
-  // ...
-}

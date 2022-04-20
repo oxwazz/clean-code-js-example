@@ -6,10 +6,3 @@ try {
 }
 
 // GOOD CODE
-// try {
-//   functionThatMightThrow();
-// } catch (error) {
-//   console.error(error);
-//   notifyUserOfError(error);
-//   reportErrorToService(error);
-// }

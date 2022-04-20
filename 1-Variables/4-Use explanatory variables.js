@@ -16,17 +16,3 @@ usersCSV.forEach((user) => {
 });
 
 // GOOD CODE
-// const address = "Pineview Drive, Mankato 56001";
-// const cityZipCodeRegex = /^[^,\\]+[,\\\s]+(.+?)\s*(\d{5})?$/;
-// const [street, city, zipCode] = address.match(cityZipCodeRegex);
-// doSomeStuff(city, zipCode);
-
-// const usersCSV = [
-//   "Oxwazz,oxwazz@hash.com,111-111-1111",
-//   "Halim,halim@hash.com,222-222-2222",
-//   "Halim,halim@hash.com,333-333-3333",
-// ];
-// usersCSV.forEach((user) => {
-//   const [fullName, email, phone] = user.split(",");
-//   doSomeStuff(fullName, email, phone);
-// });

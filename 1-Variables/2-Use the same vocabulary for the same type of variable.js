@@ -4,4 +4,3 @@ getClientData();
 getCustomerRecord();
 
 // GOOD CODE
-// getUser();
