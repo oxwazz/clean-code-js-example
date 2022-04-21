@@ -1,4 +1,3 @@
-// BAD CODE
 const yyyymmdstr = moment().format("YYYY/MM/DD");
 const arr = ["Indonesia", "Malaysia", "Pakistan"];
 const info = {
@@ -7,5 +6,3 @@ const info = {
   addr: "Lodgeville Road, Minneapolis, 55402",
   numb: "08123456789",
 };
-
-// GOOD CODE

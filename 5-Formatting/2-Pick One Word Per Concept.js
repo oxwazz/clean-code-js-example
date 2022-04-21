@@ -1,4 +1,3 @@
-// BAD CODE
 fetchProduct();
 getProduct();
 grabProduct();
@@ -6,5 +5,3 @@ grabProduct();
 deleteProduct();
 eraseProduct();
 removeProduct();
-
-// GOOD CODE

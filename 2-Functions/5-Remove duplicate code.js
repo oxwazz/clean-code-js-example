@@ -1,3 +1,4 @@
+// BAD CODE
 function showDeveloperList(developers) {
   developers.forEach((developer) => {
     const expectedSalary = developer.calculateExpectedSalary();
@@ -13,7 +14,6 @@ function showDeveloperList(developers) {
   });
 }
 
-// BAD CODE
 function showManagerList(managers) {
   managers.forEach((manager) => {
     const expectedSalary = manager.calculateExpectedSalary();
@@ -30,3 +30,25 @@ function showManagerList(managers) {
 }
 
 // GOOD CODE
+function showEmployeeList(employees) {
+  employees.forEach((employee) => {
+    const expectedSalary = employee.calculateExpectedSalary();
+    const experience = employee.getExperience();
+
+    const data = {
+      expectedSalary,
+      experience,
+    };
+
+    switch (employee.type) {
+      case "manager":
+        data.portfolio = employee.getMBAProjects();
+        break;
+      case "developer":
+        data.githubLink = employee.getGithubLink();
+        break;
+    }
+
+    render(data);
+  });
+}

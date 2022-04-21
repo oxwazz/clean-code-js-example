@@ -1,4 +1,3 @@
-// BAD CODE
 const programmerOutput = [
   {
     name: "Uncle Bobby",
@@ -27,5 +26,3 @@ let listName = [];
 for (let i = 0; i < programmerOutput.length; i++) {
   listName.push(programmerOutput[i]);
 }
-
-// GOOD CODE

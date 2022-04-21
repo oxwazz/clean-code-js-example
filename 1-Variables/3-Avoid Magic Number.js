@@ -1,4 +1,3 @@
-// BAD CODE
 setTimeout(() => {
   // ...
 }, 86400000);
@@ -14,5 +13,3 @@ const shuffleCards = () => {
     // shuffle card;
   }
 };
-
-// GOOD CODE

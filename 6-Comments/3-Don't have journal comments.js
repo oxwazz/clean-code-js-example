@@ -1,4 +1,3 @@
-// BAD CODE
 /**
  * 2016-12-20: Removed monads, didn't understand them (RM)
  * 2016-10-01: Improved using special monads (JP)
@@ -8,5 +7,3 @@
 function combine(a, b) {
   return a + b;
 }
-
-// GOOD CODE

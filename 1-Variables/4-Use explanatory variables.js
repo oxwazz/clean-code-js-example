@@ -1,4 +1,3 @@
-// BAD CODE
 const address = "Pineview Drive, Mankato 56001";
 const cityZipCodeRegex = /^[^,\\]+[,\\\s]+(.+?)\s*(\d{5})?$/;
 doSomeStuff(
@@ -14,5 +13,3 @@ const usersCSV = [
 usersCSV.forEach((user) => {
   doSomeStuff(user.split(",")[0], user.split(",")[1], user.split(",")[2]);
 });
-
-// GOOD CODE

@@ -1,4 +1,3 @@
-// BAD CODE
 const locations = ["Austin", "New York", "San Francisco"];
 locations.forEach((l) => {
   doSomeStuff();
@@ -16,5 +15,3 @@ function showDOB() {
 function renderWSpace() {
   // ...
 }
-
-// GOOD CODE

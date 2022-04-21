@@ -1,4 +1,3 @@
-// BAD CODE
 if (data.status === "fetching" && !data.rows) {
   // show spinner
 }
@@ -16,5 +15,3 @@ const SomeReactComponent = ({ meeting, userId }) => {
     </div>
   );
 };
-
-// GOOD CODE

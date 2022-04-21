@@ -1,4 +1,3 @@
-// BAD CODE
 const car = {
   carBrand: "Honda",
   carModel: "Accord",
@@ -20,5 +19,3 @@ console.log(
   product.productPrice,
   product.productUnits
 );
-
-// GOOD CODE

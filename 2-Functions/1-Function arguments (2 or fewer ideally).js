@@ -1,4 +1,3 @@
-// BAD CODE
 function createUser(fullname, email, phone, address, username, password) {
   // ...
 }
@@ -11,5 +10,3 @@ createUser(
   "kingofpirate",
   "hitohitonomi"
 );
-
-// GOOD CODE

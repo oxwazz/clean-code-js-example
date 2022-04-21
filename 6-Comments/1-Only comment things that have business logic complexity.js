@@ -1,4 +1,3 @@
-// BAD CODE
 function hashIt(data) {
   // The hash
   let hash = 0;
@@ -19,5 +18,3 @@ function hashIt(data) {
 
 const regexYoutubeId =
   /(?:youtube\.com\/(?:[^\/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?\/\s]{11})/gi;
-
-// GOOD CODE

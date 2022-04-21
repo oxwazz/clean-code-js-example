@@ -1,4 +1,3 @@
-// BAD CODE
 function createFile(name, temp) {
   if (temp) {
     fs.create(`./temp/${name}`);
@@ -6,5 +5,3 @@ function createFile(name, temp) {
     fs.create(name);
   }
 }
-
-// GOOD CODE

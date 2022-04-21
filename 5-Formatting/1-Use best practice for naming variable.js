@@ -1,4 +1,3 @@
-// BAD CODE
 const DAYS_IN_WEEK = 7;
 const daysInMonth = 30;
 
@@ -10,5 +9,3 @@ function restore_database() {}
 
 class animal {}
 class Alpaca {}
-
-// GOOD CODE

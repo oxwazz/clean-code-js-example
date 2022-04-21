@@ -1,4 +1,3 @@
-// BAD CODE
 import { get } from "request-promise";
 import { writeFile } from "fs-extra";
 
@@ -12,5 +11,3 @@ get("https://en.wikipedia.org/wiki/Monkey_D._Luffy")
   .catch((err) => {
     console.error(err);
   });
-
-// GOOD CODE

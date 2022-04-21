@@ -1,4 +1,3 @@
-// BAD CODE
 import { get } from "request";
 import { writeFile } from "fs";
 
@@ -18,5 +17,3 @@ get(
     }
   }
 );
-
-// GOOD CODE

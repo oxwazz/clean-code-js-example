@@ -1,4 +1,3 @@
-// BAD CODE
 function setDistance(pointA, pointB, isKilometer) {
   if (isKilometer) {
     // set distance in kilometers
@@ -6,5 +5,3 @@ function setDistance(pointA, pointB, isKilometer) {
     // set distance in miles
   }
 }
-
-// GOOD CODE

@@ -1,4 +1,3 @@
-// BAD CODE
 async function createUser(username, password) {
   const hashPassword = bcrypt.hash("hitohitonomi");
   const { data, error } = await User.save(username, hashPassword);
@@ -19,5 +18,3 @@ async function createUser(username, password) {
   }
   send.emailVerification(emailText);
 }
-
-// GOOD CODE

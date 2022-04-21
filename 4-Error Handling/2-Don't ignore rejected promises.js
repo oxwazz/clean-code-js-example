@@ -1,4 +1,3 @@
-// BAD CODE
 getdata()
   .then((data) => {
     functionThatMightThrow(data);
@@ -6,5 +5,3 @@ getdata()
   .catch((error) => {
     console.log(error);
   });
-
-// GOOD CODE
